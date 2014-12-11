@@ -21,7 +21,9 @@ and many other sites for $50 with the part number CC2540EMK-USB.
 
 USAGE
 
+```
 C:\>python tibtle2pcap.py fitbit-smartrf.psd out.pcap
+```
 
 The capture file "fitbit-smartrf.psd" is included with this software as an example.
 
